@@ -9,6 +9,6 @@ int main()
 
     cout << "Введите значение Х:"; cin >> x;
     cout << "Введите значение Y:"; cin >> y;
-
+    cout << "Сумма: " << x+y;
     return 0;
 }
