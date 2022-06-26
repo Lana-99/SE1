@@ -8,7 +8,8 @@ int main()
     int x, y;
 
     cout << "Введите значение Х: "; cin >> x;
-    cout << "Введите значение Y:"; cin >> y;
-    cout << "Сумма: " << x+y;
+    cout << "Введите значение Y: "; cin >> y;
+    cout << "Сумма: " << x+y << endl;
+    cout << "Разность: " << x-y << endl;
     return 0;
 }
