@@ -1,3 +1,7 @@
+
+// This program is just an example one under VCS.
+// Author: Svetlana Nikitina, KE-317
+
 #include <iostream>
 
 using namespace std;
